@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio website [https://developerabhishekportfolio.netlify.app](https://developerabhishekportfolio.netlify.app)
 
-- 📫 How to reach me **abhishekdandgi2003@gmail.com**
+- 📫 How to reach me **developerabhishek2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
