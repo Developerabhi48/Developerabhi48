@@ -1,10 +1,9 @@
 <h1 align="center" > Hi 👋, I'm Abhishek </h1>
         <h3 align="center" >A passionate Web developer from India</h3>
         <img align="right" alt="Coding" width="400" src="https://www.google.com/search?client=ms-android-motorola-rvo3&sca_esv=f07f13ca3f96175b&sca_upv=1&sxsrf=ADLYWIL5ayZTrR-YyNpCA_Gq2qe--soc9g:1726793296518&q=developer&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOYMMWTNCTu57lKPsZpPcfqPInr9nYx0o93U7Rc7eYLjY3hjgLcr9IOyKfOh9VkaTJQRv7J6SNC0oacXerpesAGtkHcC4rlyYj2W7QetzJxHvglfUJ1iZCXxQFDnQ7yEEI4hz8I0lDrMP-rL1UkUeOOfbPwymg&sa=X&ved=2ahUKEwiOiaioptCIAxWlZWwGHVj6DaUQtKgLegQIGxAB#ip=1">
-
 - I’m currently pursuing **Computer Science and Engineering**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Web-Developer-Abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Web-Developer-Abhishek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Developer-Abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Developer-Abhishek" /> </p>
 
 - 👨‍💻 My portfolio website [https://developerabhishekportfolio.netlify.app](https://developerabhishekportfolio.netlify.app)
 
